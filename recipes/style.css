@@ -2,3 +2,8 @@ img {
     height: auto;
     width: 400px
 }
+
+h5 {
+    font-size: 17px;
+    font-family: 'Times New Roman', sans-serif;
+}
